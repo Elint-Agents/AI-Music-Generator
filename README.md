@@ -67,4 +67,4 @@ audio_generations
 
 Here is how the app looks:
 
-![Music Generator UI](/home/som/Music/ai_music_generator_agent/output_screenshot.png)
+![Music Generator UI](assect/Screenshot from 2025-06-20 17-22-12.png)
