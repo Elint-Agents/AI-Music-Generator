@@ -66,5 +66,9 @@ audio_generations
 !## 📸 Screenshot
 
 Here is how the app looks:
+Music Generator UI
 
-![Music Generator UI](assets/screenshot_ui.png)
+<img width="50%" src="assets/screenshot_ui.png">
+
+
+ 
